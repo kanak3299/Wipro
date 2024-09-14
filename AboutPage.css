@@ -1,0 +1,28 @@
+/* src/AboutPage.css */
+.about-container {
+    padding: 50px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-section {
+    margin-bottom: 30px;
+  }
+  
+  .about-section h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .about-section p {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+  }
+  

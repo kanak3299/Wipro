@@ -1,0 +1,20 @@
+.form{
+    padding: 10px;
+    margin: 10px;
+
+}
+.contact{
+    
+    margin-left: 35%;
+    font-size: 30px;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+
+}
+.image{
+    left: 80%;
+    height: 90px;
+    width: 90px;
+
+}

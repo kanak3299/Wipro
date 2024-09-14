@@ -1,0 +1,81 @@
+/* styles.css */
+
+.dashboard {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.user-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.table-header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: left;
+}
+
+.user-row {
+    border-bottom: 1px solid #ddd;
+}
+
+.user-data {
+    padding: 10px;
+}
+
+.user-actions {
+    padding: 10px;
+}
+
+.edit-button,
+.delete-button,
+.save-button {
+    padding: 5px 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.edit-button {
+    background-color: #4CAF50; /* Green */
+}
+
+.delete-button {
+    background-color: #f44336; /* Red */
+}
+
+.save-button {
+    background-color: #2196F3; /* Blue */
+}
+
+.edit-user-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+
+.form-title {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-input {
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
